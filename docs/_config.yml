@@ -1,0 +1,4 @@
+﻿title: "Alpha: EMA Trend (50/200)"
+theme: minima
+plugins:
+  - jekyll-seo-tag
