@@ -36919,3 +36919,16 @@ date,ticker,direction,alpha_name
 2026-04-22,VNQ,1,alpha_trend_ema
 2026-04-22,XLE,1,alpha_trend_ema
 2026-04-22,XLF,-1,alpha_trend_ema
+2026-04-23,EEM,1,alpha_trend_ema
+2026-04-23,GLD,1,alpha_trend_ema
+2026-04-23,HYG,1,alpha_trend_ema
+2026-04-23,IWM,1,alpha_trend_ema
+2026-04-23,QQQ,1,alpha_trend_ema
+2026-04-23,SLV,1,alpha_trend_ema
+2026-04-23,SPY,1,alpha_trend_ema
+2026-04-23,TLT,1,alpha_trend_ema
+2026-04-23,USO,1,alpha_trend_ema
+2026-04-23,UUP,1,alpha_trend_ema
+2026-04-23,VNQ,1,alpha_trend_ema
+2026-04-23,XLE,1,alpha_trend_ema
+2026-04-23,XLF,-1,alpha_trend_ema
