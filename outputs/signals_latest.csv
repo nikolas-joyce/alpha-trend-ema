@@ -38557,3 +38557,16 @@ date,ticker,direction,alpha_name
 2026-10-21,VNQ,1,alpha_trend_ema
 2026-10-21,XLE,1,alpha_trend_ema
 2026-10-21,XLF,1,alpha_trend_ema
+2026-10-22,EEM,1,alpha_trend_ema
+2026-10-22,GLD,-1,alpha_trend_ema
+2026-10-22,HYG,1,alpha_trend_ema
+2026-10-22,IWM,1,alpha_trend_ema
+2026-10-22,QQQ,1,alpha_trend_ema
+2026-10-22,SLV,-1,alpha_trend_ema
+2026-10-22,SPY,1,alpha_trend_ema
+2026-10-22,TLT,-1,alpha_trend_ema
+2026-10-22,USO,1,alpha_trend_ema
+2026-10-22,UUP,1,alpha_trend_ema
+2026-10-22,VNQ,1,alpha_trend_ema
+2026-10-22,XLE,1,alpha_trend_ema
+2026-10-22,XLF,1,alpha_trend_ema
